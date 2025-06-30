@@ -1,5 +1,10 @@
 # catfinder
 
+buttons 1 and 2 type kaomojis and turn leds 1 and 2
+button 3 toggles leds
+button 4 is backspace because my backspace is broken
+
+
 ![image](https://github.com/user-attachments/assets/d25cef7a-47d3-4d7d-9c1c-dc66b0570840)
 
 ![image](https://github.com/user-attachments/assets/c8f40580-91da-4a05-84a9-4e6b5f94f11f)
