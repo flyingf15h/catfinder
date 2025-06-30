@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2",LEDRD254W57D500H1070,2,L08R5000Q1,
+"R1, R2",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,2,R,
+"SW1, SW2, SW3, SW4",SW_Cherry_MX_1.00u_PCB,4,SW_Push,
+U1,XIAO-RP2040-DIP,1,XIAO-RP2040-DIP,
