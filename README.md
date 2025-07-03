@@ -1,7 +1,7 @@
 # catfinder
 
 
-![image](https://github.com/user-attachments/assets/97d86ff7-dc9e-4dbd-9178-05bb55ea9c5e)
+![image](https://github.com/user-attachments/assets/e466addf-77d8-45a7-abd4-cdbdaabc5a02)
 
 ![image](https://github.com/user-attachments/assets/fb24008c-1b29-4a37-9216-86f0b8187b68)
 
